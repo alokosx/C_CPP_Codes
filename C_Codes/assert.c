@@ -10,7 +10,7 @@ int main(void)
  double a,b;
  while(1)
  {
-  printf("Enter 2 number:");
+  printf("Enter two number:");
   scanf("%lf %lf",&a,&b);
   assert(b!=0);
   printf("a/b = %0.3lf\n",a/b);
