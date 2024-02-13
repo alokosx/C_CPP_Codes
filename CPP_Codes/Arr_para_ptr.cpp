@@ -18,3 +18,4 @@ int main() {
   pointer to function i.e. of size 8 instead of original size of array */
   return 0;
 }
+
